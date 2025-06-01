@@ -5,7 +5,6 @@
 
 ---
 
-
 1. **Data Loading & Exploration**
 
 * Loaded the telco.csv dataset to examine the structure, data types, and detect issues like missing values.
